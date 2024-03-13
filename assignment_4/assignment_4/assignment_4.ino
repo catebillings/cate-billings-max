@@ -1,6 +1,7 @@
-//Hello Instrument Hello Max
+//Interactive Sound Assignment 4
+// TinkerCAD: https://www.tinkercad.com/things/cFir4YQuRXO-assignment-4-interactive-sound 
 
-// constants used to set pin numbers (don't change)
+// constants used to set pin numbers
 const int ledPin = 13; //define ledPin and pin 13 on arduino
 const int buttonPin = 2;
 const int sensorPin = A0;
